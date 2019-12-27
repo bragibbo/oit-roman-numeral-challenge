@@ -12,5 +12,7 @@ Tools used:
 4. Stack Overflow for syntax reminding
 
 Start time: 8:45AM 12/27/2019
+
 End time: 11:49AM 12/27/2019
+
 Total elapsed time: 3 hours and 4 minutes
