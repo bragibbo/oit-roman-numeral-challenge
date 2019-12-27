@@ -3,7 +3,7 @@ Coding challenge for the OIT Student Programmer job
 
 Assumptions made during project:
 1. That the user is not going to try to convert a number larger than 3,999 (this being the largest value possible to represent with the symbols given in the challenge)
-2. The assumption that the user will want to continue to convert number back and forth until indicated exit of the program.
+2. The assumption that the user will want to continue to convert numbers back and forth until an indicated exit of the program.
 
 Tools used:
 1. Programmed in C++
